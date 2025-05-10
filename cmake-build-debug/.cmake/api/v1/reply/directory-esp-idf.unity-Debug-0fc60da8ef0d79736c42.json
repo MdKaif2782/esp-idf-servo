@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "esp-idf/unity",
+		"source" : "/Users/mdkaifibnzaman/espsdk/esp-idf/components/unity"
+	}
+}
